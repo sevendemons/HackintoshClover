@@ -25,10 +25,16 @@
 [![](https://img.shields.io/badge/tonymacx86-welcome-red.svg)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-welcome-lightgrey.svg)](http://it360.org.cn/)
 [![](https://img.shields.io/badge/InsanelyMac-welcome-blue.svg)](https://www.insanelymac.com/)
-[![]()]()
-[![]()]()
-[![]()]()
-[![]()]()
+[![](https://img.shields.io/badge/OSx86Project-welcome-ff69b4.svg)](http://www.osx86project.org/)
+[![](https://img.shields.io/badge/Hackintosh-welcome-brightgreen.svg)](https://hackintosh.com/)
+[![](https://img.shields.io/badge/osx86-welcome-green.svg)](https://www.osx86.net/)
+[![](https://img.shields.io/badge/aquamac-welcome-yellowgreen.svg)](http://aquamac.proboards.com/)
 
+# 如何下载指定文件夹
+简单的页面 [DownGit](https://minhaskamal.github.io/DownGit/#/home)： 只需要找到仓库中对应文件夹的 url, 输入之后, 自动打包下载。
+
+这里只要代理到位，经过测试百分百是可以下载下来的，只要耐心地等待DownGit去解析完所有文件即可，下载不下来的小伙伴可以研究下Git或者代理软件的使用。
+
+考虑到Github速度慢的问题，我已经在努力的搭建国内的Coding net的项目，期待能有所帮助！
 
 微信公众号:爪哇派生 QQ群:821557332 邮箱:631908942@qq.com 网站：www.tangmen.online 如果您想支持和鼓励我一下，多多关注就好！

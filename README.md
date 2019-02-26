@@ -45,4 +45,4 @@
 
 微信公众号:爪哇派生 QQ群:821557332 邮箱:631908942@qq.com 网站：www.tangmen.online 如果您想支持和鼓励我一下，多多关注就好！
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。

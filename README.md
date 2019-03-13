@@ -22,7 +22,6 @@
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%A9%BA%E9%97%B4-welcome-yellowgreen.svg)](http://vrguge.com/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%B9%90%E5%9B%AD-welcome-yellow.svg)](https://imac.hk/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%A4%BE%E5%8C%BA-welcome-yellow.svg)](https://osx.cx/)
-[![](https://img.shields.io/badge/%E5%9B%BD%E5%85%89-welcome-orange.svg)](https://www.sqlsec.com/)
 [![](https://img.shields.io/badge/tonymacx86-welcome-red.svg)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/%E9%BB%91%E8%8B%B9%E6%9E%9C%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-welcome-lightgrey.svg)](http://it360.org.cn/)
 [![](https://img.shields.io/badge/InsanelyMac-welcome-blue.svg)](https://www.insanelymac.com/)
